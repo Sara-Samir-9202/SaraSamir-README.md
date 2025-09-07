@@ -30,13 +30,21 @@ Familiar with applying <b>security best practices</b> in development.
 
 
 ---
-
+<h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="streak stats"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-Samir-9202&theme=tokyonight" alt="streak stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Samir-9202&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 ---
