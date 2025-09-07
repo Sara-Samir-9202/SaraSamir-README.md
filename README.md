@@ -41,12 +41,17 @@ Familiar with applying <b>security best practices</b> in development.
 
 ---
 
-### 🌐 Let's Connect
-<p align="left">
+<h5 align="center">🌐 Let's Connect</h5>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sara-samir-elghazally?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
   </a>
   <a href="mailto:sarasamir9202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+  </a>
+  <a href="https://github.com/Sara-Samir-9202" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
   </a>
 </p>
+
