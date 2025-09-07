@@ -23,9 +23,9 @@ Familiar with applying <b>security best practices</b> in development.
 
 <h5 align="center">🔧 Additional Skills</h5>
 
-<p align="center">
+<p5 align="center">
 Clean Architecture • Repository & Unit of Work Pattern • LINQ • Dependency Injection • Secure Coding Practices
-</p>
+</p5>
 
 ---
 
