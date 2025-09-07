@@ -21,12 +21,15 @@ Familiar with applying <b>security best practices</b> in development.
 
 ---
 
-### 🔧 Additional Skills
-Clean Architecture • Repository & Unit of Work Pattern • LINQ • Dependency Injection • Secure Coding Practices  
+<h3 align="center">🔧 Additional Skills</h3>
+
+<p align="center">
+Clean Architecture • Repository & Unit of Work Pattern • LINQ • Dependency Injection • Secure Coding Practices
+</p>
 
 ---
 
-### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="streak stats"/>
 </p>
