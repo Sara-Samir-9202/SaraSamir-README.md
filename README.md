@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyN2p3c3d2bTF6Y3N4aXh2c2
 
 <p>
 🚀 Passionate about building scalable and secure fullstack solutions using .NET technologies.<br/>
-Skilled in designing clean architectures with <b>ASP.NET Core</b>, <b>C#</b>, <b>Entity Framework</b>, and frontend technologies.<br/>
+Skilled in designing clean architectures with <b>ASP.NET Core</b>, <b>C#</b>, <b>Entity Framework</b>, and frontend technologies.
 Familiar with applying <b>security best practices</b> in development.
 </p>
 
