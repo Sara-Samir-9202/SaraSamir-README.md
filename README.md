@@ -15,6 +15,7 @@ Familiar with applying <b>security best practices</b> in development.
 </div>
 
 
+
 ---
 
 <h5 align="center">💻 Core Tech Stack</h5>
