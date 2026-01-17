@@ -1,5 +1,5 @@
 # SaraSamir-README.md
-<h1 align="center">Hi 👋, I'm Sara</h1>
+<h1 align="center">Hi 👋, I'm Sara Samir</h1>
 <h3 align="center">Backend .NET Developer</h3>
 
 <p align="center">
