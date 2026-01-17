@@ -1,6 +1,6 @@
 # SaraSamir-README.md
 <h1 align="center">Hi 👋, I'm Sara Samir</h1>
-<h3 align="center">Software Engineer||Fullstack .NET Developer</h3>
+<h3 align="center">Software Engineer || Fullstack .NET Developer</h3>
 
 <p align="center">
 🚀 Passionate about building scalable and secure backend solutions using .NET technologies.<br/>
