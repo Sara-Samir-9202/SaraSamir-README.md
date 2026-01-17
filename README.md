@@ -6,9 +6,10 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyN2p3c3d2bTF6Y3N4aXh2c2
 <h1>Hi 👋, I'm Sara Samir</h1>
 <h3>Software Engineer | Fullstack .NET Developer</h3>
 
+
 <p>
-🚀 Passionate about building scalable and secure backend solutions using .NET technologies.<br/>
-Skilled in designing clean architectures with <b>ASP.NET Core</b>, <b>C#</b>, and <b>Entity Framework</b>.<br/>
+🚀 Passionate about building scalable and secure fullstack solutions using .NET technologies.<br/>
+Skilled in designing clean architectures with <b>ASP.NET Core</b>, <b>C#</b>, <b>Entity Framework</b>, and frontend technologies.<br/>
 Familiar with applying <b>security best practices</b> in development.
 </p>
 
