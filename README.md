@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="260" height="480"
+<img align="right" width="310" height="590"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <h1>Hi 👋, I'm Sara Samir</h1>
@@ -12,32 +12,24 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 🔐 Focused on applying security best practices in real-world projects.
 </pre>
 
-<p align="center"><sub>Open to opportunities • Junior / Mid-level .NET Fullstack roles</sub></p>
-
 </div>
-
----
 
 <div>
 <h4 align="center">💻 Core Tech Stack</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35"/>
-  <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" height="35"/>
+  <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35"/>
-
-  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35"/>
+  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="35"/>
 </p>
 </div>
 
----
 
 <div>
 <h4 align="center">🧩 Skills & Practices</h4>
@@ -50,7 +42,6 @@ Repository & Unit of Work • Authentication & Authorization • Secure Coding
 </p>
 </div>
 
----
 
 <h4 align="center">📊 GitHub Activity</h4>
 
@@ -80,4 +71,4 @@ Repository & Unit of Work • Authentication & Authorization • Secure Coding
 
 <p align="center">
 ✨ Built with passion • Designed for scale • Written with clean code ✨
-</p>
+</p> ايه رايك
