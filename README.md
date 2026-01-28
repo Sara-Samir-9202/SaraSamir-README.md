@@ -3,14 +3,15 @@
 <h1>Hi 👋, I'm Sara Samir</h1>
 <h3>Software Engineer | Fullstack (.NET & Angular) Developer</h3>
 
+<img align="right" width="260" height="400"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
 <pre>
 🚀 Passionate about building scalable & secure web applications using .NET technologies.
 🧠 Strong in clean architecture, performance & maintainable code.
 🔐 Focused on applying security best practices in real-world projects.
 </pre>
 
-<img align="right" width="260" height="400"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 
 ---
