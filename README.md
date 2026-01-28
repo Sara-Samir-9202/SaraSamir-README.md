@@ -1,8 +1,5 @@
 <div align="center">
 
-<img align="right" width="260" height="400"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
 <h1>Hi 👋, I'm Sara Samir</h1>
 <h3>Software Engineer | Fullstack (.NET & Angular) Developer</h3>
 
@@ -12,6 +9,8 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 🔐 Focused on applying security best practices in real-world projects.
 </pre>
 
+<img align="right" width="260" height="400"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 
 ---
