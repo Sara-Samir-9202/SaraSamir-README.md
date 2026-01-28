@@ -14,7 +14,6 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 </div>
 
----
 <div>
 <h4 align="center">💻 Core Tech Stack</h4>
 <p align="center">
@@ -32,8 +31,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 
 
-
-
+<div>
 <h4 align="center">🧩 Skills & Practices</h4>
 
 <p align="center">
@@ -42,8 +40,8 @@ Clean Architecture • SOLID Principles • RESTful APIs • LINQ • Dependency
 Repository & Unit of Work • Authentication & Authorization • Secure Coding
 </sub>
 </p>
+</div>
 
----
 
 <h4 align="center">📊 GitHub Activity</h4>
 
