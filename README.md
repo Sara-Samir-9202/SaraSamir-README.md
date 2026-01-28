@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="400" height="600"
+<img align="right" width="350" height="500"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <h1>Hi 👋, I'm Sara Samir</h1>
