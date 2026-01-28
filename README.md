@@ -15,7 +15,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 
 ---
-
+<div>
 <h4 align="center">💻 Core Tech Stack</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
@@ -29,6 +29,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
   <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="35"/>
 </p>
+</div>
 
 
 
